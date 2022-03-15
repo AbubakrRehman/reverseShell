@@ -11,7 +11,7 @@ python
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AbubakrRehman/reverseShell.git
 ```
 
 Go to the project directory
